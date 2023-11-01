@@ -1,3 +1,4 @@
 # README
 
-Tämä on ensimmäinen projektini
+Tässä on Java tehtävä
+
